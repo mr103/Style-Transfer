@@ -8,7 +8,7 @@ File organization:
 
  Real-time Style Transfer – Folder contains code, resources and results for real-time style transfer
 – Code - Folder contains code for real-time style transfer
- demo_rtst.ipynb – Run a demo of the code
+ demo_rtst.ipynb – Run a demo of the code (Note: Run output_generator.ipynb to download style and content images required to run the demo.)
  train_rtst.py – Run the program for loading dataset, training saving a model
  architecture.py – Module for classes
  utils_rtst.py – Module for visualizing results
